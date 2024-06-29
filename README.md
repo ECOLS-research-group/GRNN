@@ -6,7 +6,7 @@
 <br>
 <br>**Installation**
 <br> &nbsp;Clone the repository:
-<br> &nbsp; &nbsp;git clone https://github.com/your-username/stock-market-prediction.git
+<br> &nbsp; &nbsp;git clone https://github.com/ECOLS-research-group/GRNN.git
 <br> &nbsp; &nbsp;cd stock-market-prediction
 <br> &nbsp;Create a virtual environment:
 <br> &nbsp; &nbsp;python3 -m venv venv
